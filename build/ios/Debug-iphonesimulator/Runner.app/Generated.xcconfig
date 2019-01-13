@@ -1,0 +1,8 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/yangjiakang/flutter
+FLUTTER_APPLICATION_PATH=/Users/yangjiakang/Desktop/samples/flutter/flutter-login-ui
+FLUTTER_TARGET=/Users/yangjiakang/Desktop/samples/flutter/flutter-login-ui/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/yangjiakang/flutter/bin/cache/artifacts/engine/ios
+TRACK_WIDGET_CREATION=true
