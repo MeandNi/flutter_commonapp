@@ -1,7 +1,11 @@
-# Login UI
+# Flutter_CommonApp
 
-A clean and simple login UI screen with a basic hero animation in Flutter, a mobile sdk framework by Google.
+[README in english](README-EN.md)
 
-[Watch this video tutorial on Youtube](https://youtu.be/efbB8-x9T2c)
+打造一款通用的AppUI结构，包括登录、注册、首页及各中共用部分，目前还在完善，希望大家一起加入。
 
-![Login UI Flutter](https://raw.githubusercontent.com/putraxor/flutter-login-ui/master/art/thumbnail.png)
+引用我在[AndroidEfficientBaseUtils](https://github.com/MeandNi/AndroidEfficientBaseUtils)说过的话相当于给你一个完完整整地漂亮的盒子，你只需吧自己需要的东西放进去就好。
+
+
+
+![Login UI Flutter](./show/appshow.jpg)
