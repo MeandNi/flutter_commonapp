@@ -10,18 +10,26 @@
 
 ![Login UI Flutter](./show/appshow.jpg)
 
+![Login UI Flutter](./show/appshow2.jpg)
+
 
 
 ## 结构清单
 
+#### UI
+
 - [x] Welcome - 首页
 - [x] Login - 登录
-- [ ] Register - 注册
+- [x] Register - 注册
 - [x] Home - 首页
-- [ ] Personal information - 个人信息
+- [x] Personal information - 个人信息
+- [x] WebPage - 嵌入网页
+- [x] Setting - 设置
 - [ ] ....
 
+#### utils
 
+- [x] cell - 列表
 
 ## 作者
 
