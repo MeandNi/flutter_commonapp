@@ -1,3 +1,4 @@
+import 'package:commonapp/welcome.dart';
 import 'package:flutter/material.dart';
 import 'package:commonapp/home/home_page.dart';
 
@@ -44,7 +45,7 @@ class _LoginPageState extends State<LoginPage> {
           borderRadius: BorderRadius.circular(18),
         ),
         onPressed: () {
-          Navigator.of(context).pushNamed(HomePage.tag);
+          Navigator.of(context).pushNamedAndRemoveUntil(RootScene.tag, ModalRoute.withName(WelcomePage.tag));
         },
         padding: EdgeInsets.all(12),
         color: Colors.grey,

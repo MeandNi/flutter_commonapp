@@ -8,7 +8,7 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   final routes = <String, WidgetBuilder>{
     LoginPage.tag: (context) => LoginPage(),
-    HomePage.tag: (context) => HomePage(),
+    RootScene.tag: (context) => RootScene(),
     WelcomePage.tag: (context) => WelcomePage(),
   };
 
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: 'Kodeversitas',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.lightBlue,
+        primaryColor: Colors.white,
         fontFamily: 'Nunito',
       ),
       home: WelcomePage(),

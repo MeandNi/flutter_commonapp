@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.0+2" />
+      <root url="file://$USER_HOME$/flutter/.pub-cache/hosted/pub.flutter-io.cn/share-0.5.3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

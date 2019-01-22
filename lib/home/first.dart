@@ -13,17 +13,8 @@ class _FirstItemState extends State<FirstItem> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.white,
-        elevation: 1,
+        elevation: 0,
         title: Text(widget.title),
-        leading: new IconButton(
-          tooltip: 'Previous choice',
-          icon: const Icon(
-            Icons.home,
-            color: Colors.black,
-          ),
-          onPressed: () {},
-        ),
       ),
       body: Container(
         child: Center(
