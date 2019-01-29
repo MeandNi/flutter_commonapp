@@ -1,6 +1,5 @@
 import 'package:commonapp/app/app_navigator.dart';
 import 'package:commonapp/commonwidget/cell/me_cell.dart';
-import 'package:commonapp/me/SettingPage.dart';
 import 'package:commonapp/me/me_header.dart';
 import 'package:flutter/material.dart';
 

@@ -28,12 +28,27 @@
 - [ ] ....
 
 #### utils
+- [x] SpUtil
+- [x] LogUtil
+- [x] DateUtil
+- [x] ObjectUtil
 
+#### commonUI
 - [x] cell - 列表
+- [x] CircleBadgeCard - 卡片
+- [x] EasyBadgeCard
+- [x] EasyCard
+- [x] EasyMultipleCard
+
+
 
 ## 作者
 
 - Yangjiakang, [**MeandNi**](http://localhost:4000/2019/01/12/flutter-practice2/)
 - ....
-
 - 相信这一套结构可以适用于大部分App（当然自己要根据需求修改。），这里追求的是通用而不是花哨的效果。
+
+
+## 鸣谢
+
+感谢那些热爱开源、一起奋斗的朋友们。本库部分代码来自：[@Sky24n](https://github.com/Sky24n/common_ utils) 目前还在持续收集整理编写....
